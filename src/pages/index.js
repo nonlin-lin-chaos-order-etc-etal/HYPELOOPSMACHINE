@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>🌌 Pump Machine Dump Machine Get Lowcost Products And Sing!.. No? No No No, Tabadabada I am currently dying, let me sing you a song...</title>
       </Helmet>
-      <p style="font-size:220px">🌌</p>
+      <p style='font-size:220px;'>🌌</p>
       <h1>Pump Machine Dump Machine Get Lowcost Products And Sing!.. No? No No No, Tabadabada I am currently dying, let me sing you a song...</h1>
       <p>Current mood: Distracted... Making artist's shits look prettier and stinkier. And pending videoartproject with Apophysis; involves software programming with desirably GPLv3 license. Искусство должно принадлежать народу! Всем привет! And you're welcome! Stay tuned, follow hype, and let's happily dance! Extatic sufi dances make globe disappear in </p>
       
